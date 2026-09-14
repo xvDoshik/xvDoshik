@@ -2,8 +2,6 @@
 
 **Backend · Telegram bots · parsers · automation**
 
-Systems and tooling for real load - bots, APIs, scrapers, admin panels, deploy.
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -29,15 +27,8 @@ Systems and tooling for real load - bots, APIs, scrapers, admin panels, deploy.
 ![Riverpod](https://img.shields.io/badge/Riverpod-00D1FF?style=flat-square&logo=flutter&logoColor=white)
 ![Drift](https://img.shields.io/badge/Drift-0175C2?style=flat-square&logo=sqlite&logoColor=white)
 
-## Portfolio
-
-| Project | Stack |
-|---------|--------|
-| [clipmini](https://github.com/xvDoshik/clipmini) | Swift, SwiftUI, macOS menu bar |
-| [coinglance](https://github.com/xvDoshik/coinglance) | Flutter, Dart, Drift, home widget |
-
 <p align="center">
   <img src="assets/meme.jpg" alt="" width="720" />
 </p>
 
-*RU: бэкенд, Telegram-боты, парсеры, автоматизация под прод.*
+Systems and tooling for real load - bots, APIs, scrapers, admin panels, deploy.
